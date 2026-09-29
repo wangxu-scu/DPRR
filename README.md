@@ -1,13 +1,13 @@
-# DRPP Project
+# DPRR Project
 
-## This project implements the cross-modal hashing method DRPP.
+## This project implements the cross-modal hashing method DPRR.
 
 ## Quick Start
 
 1. **Enter the project directory**
 
    ```bash
-   cd ./DRPP/
+   cd ./DPRR/
    ```
 
 2. **Prepare the dataset**
@@ -36,7 +36,7 @@
 ## Directory Structure
 
 ```
-DRPP/
+DPRR/
 ├── data/                # Raw and processed datasets
 ├── utils/               # Utility functions
 │   └── tools.py         # Data preprocessing script
